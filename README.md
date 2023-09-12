@@ -17,7 +17,7 @@ This repository contains the source code for a simple console-based Tic-Tac-Toe 
 
 ### Demo
 
-[Include a link to a video or GIF demonstrating how the game is played. If you have a live version of the game, you can provide a link to that as well.]
+[]
 
 ### Features
 
